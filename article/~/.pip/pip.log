@@ -1,0 +1,239 @@
+Collecting bootstrap-admin
+  1 location(s) to search for versions of bootstrap-admin:
+  * https://pypi.douban.com/simple/bootstrap-admin/
+  Getting page https://pypi.douban.com/simple/bootstrap-admin/
+  Analyzing links from page https://pypi.doubanio.com/simple/bootstrap-admin/
+    Found link https://pypi.doubanio.com/packages/01/52/b414e4cb6238bcf3160689b95cfc98b1bdd2b78e6deecb346f9d3394711b/bootstrap_admin-0.3.5.tar.gz#md5=a1bc10fba44a109ca7b034e3d45dcf98 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.3.5
+    Found link https://pypi.doubanio.com/packages/04/e7/b16c5771fff14583fdf4fd7ed092680511a556320ef4a4dbb79ec4aea7a8/bootstrap_admin-0.1.4.tar.gz#md5=d32a2e3505d5ed7c13fe3aae349a3eb2 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.1.4
+    Found link https://pypi.doubanio.com/packages/05/30/209c63b97011728134e4668470076bdef0ae1378b93864e424b3470aad8b/bootstrap_admin-0.2.8.tar.gz#md5=7359a35ab3b04cc40a478570a9854163 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.2.8
+    Found link https://pypi.doubanio.com/packages/05/cb/9fecf018447e54d2ffd1b1301be263ac87dd69e932d11c1ba81ffab33a82/bootstrap_admin-0.2.9.tar.gz#md5=c98dcca638fb9e108e26b0db4fa5d8e1 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.2.9
+    Found link https://pypi.doubanio.com/packages/10/92/b6cfc89575572d8f87c18357a90088fb5aa99a047b18198b0a5a211cf4f7/bootstrap_admin-0.3.6.tar.gz#md5=ca5ea57e0d0ff38d36575fa28b4fcc2e (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.3.6
+    Found link https://pypi.doubanio.com/packages/15/01/55efa89417b2b94d6a442c319f849cb4f8aceb712c4ebc3351271c7a62d3/bootstrap_admin-0.2.7.tar.gz#md5=960b20dd75dc3bfc89c555e23ddfe28c (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.2.7
+    Found link https://pypi.doubanio.com/packages/19/18/52c70b95ff62a3a20cc1050b11589cbc68f4abe51df193c7b02a6275c5e7/bootstrap_admin-0.1.8.tar.gz#md5=579b1c4d918e02564d37f42aaf678b96 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.1.8
+    Found link https://pypi.doubanio.com/packages/1d/58/20361ea7ee9efc2a3b638b33922204d59dedd248bc18956d61c5af553c48/bootstrap_admin-0.1.1.tar.gz#md5=5636be08a6f8409ca93f3f2a00ddf1e9 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.1.1
+    Skipping link https://pypi.doubanio.com/packages/26/06/49e3bc423c1eebc8d14e175eb90056b12851bbfc416ce0a61d831bc0ea80/bootstrap_admin-0.3.7.1-py2-none-any.whl#md5=ffaad42a40fe762993d72b938f454902 (from https://pypi.doubanio.com/simple/bootstrap-admin/); it is not compatible with this Python
+    Found link https://pypi.doubanio.com/packages/3c/31/03a55867a733d0a7f4ac6e8a7de8de76005c5f46b7f046176be892be385e/bootstrap_admin-0.3.0.tar.gz#md5=0babfd507870728447f54861964c8743 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.3.0
+    Found link https://pypi.doubanio.com/packages/50/58/7baf9b677419988be1af9de22b0f4df72578d7f84acaa52c4b51ca541c86/bootstrap_admin-0.2.4.tar.gz#md5=0f589fea8771b830e66d532f04bde01e (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.2.4
+    Found link https://pypi.doubanio.com/packages/5b/f8/3114967229927c0610e471d46deb46b6a8cc3e6da438040f18838076cd0d/bootstrap_admin-0.1.6.tar.gz#md5=5ab38b883f08cf8454e6fe4bbb92dccf (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.1.6
+    Found link https://pypi.doubanio.com/packages/5f/64/a768735f70d2dc5fc07192b6921ed124beb6372c7030247e53b9c5d1e67f/bootstrap_admin-0.2.3.tar.gz#md5=f1103ca0f2b8597b10013de965e09611 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.2.3
+    Found link https://pypi.doubanio.com/packages/65/31/bd340b3fbd72678fa757b476a0b15afd2de7de696c70791e7c3e078e86ef/bootstrap_admin-0.2.6.tar.gz#md5=f58c5ade31c8c052f1b95288ab3871b2 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.2.6
+    Found link https://pypi.doubanio.com/packages/67/83/827d3f0fa6527d27baa9cc06f54f12ebffeda7b8343ff7252d7ad321cc41/bootstrap_admin-0.1.5.tar.gz#md5=0bb46921ae98ed52c46c1ec34185ec46 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.1.5
+    Found link https://pypi.doubanio.com/packages/6c/b2/6973542c19ec0ff025e7066df318484d36beb73c1f3bd999a1054a354872/bootstrap_admin-0.2.5.tar.gz#md5=da05395bd158af601a0bfa7e045f6099 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.2.5
+    Found link https://pypi.doubanio.com/packages/72/ae/5023f9748ec7e6b78c34fbb3403951bcec03c0540f213493a3a554c344cb/bootstrap_admin-0.1.2.tar.gz#md5=afa639c930f8ef64314890a5e94f359a (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.1.2
+    Found link https://pypi.doubanio.com/packages/7b/e7/78247d35065915316decef1d32db64e79ca2107d2c40fe17e86f4b1bd571/bootstrap_admin-0.1.7.tar.gz#md5=6da199d356ad87a1cc387136264c14a8 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.1.7
+    Found link https://pypi.doubanio.com/packages/88/67/ce7c3fbb01ecbcf27a20014d845cde7f21c42a57d2b9efcfb8a95ca8487e/bootstrap_admin-0.1.9.tar.gz#md5=b1ffa62570c0cd7f964e3d33026af9cd (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.1.9
+    Skipping link https://pypi.doubanio.com/packages/a8/43/b1e1f90e5eafaa4ea0eb95a8ef6033971bfdfe7ff468c2f6b4dfa19182a8/bootstrap_admin-0.3.7-py2-none-any.whl#md5=fa160db0df1d0f2cb04aa9873206601e (from https://pypi.doubanio.com/simple/bootstrap-admin/); it is not compatible with this Python
+    Found link https://pypi.doubanio.com/packages/ac/55/2d7ad3251baec0dd07be4c4cb050e6f7a11a1c05aa34e4a0e6b8559d593f/bootstrap_admin-0.1.3.tar.gz#md5=9edf6d8d1ff2c84094b86c165bcb53a6 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.1.3
+    Found link https://pypi.doubanio.com/packages/ae/07/f34c923eeca9eaea5545382b42e3598105e5754761644e126a64b04d86ea/bootstrap_admin-0.3.7.1.tar.gz#md5=3e1fb13c96877e1841f67b3c337ab14a (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.3.7.1
+    Found link https://pypi.doubanio.com/packages/b4/8d/43b31aba76cfb5c6ac749d6bbd83c2f2c00ada0f9ed010e85a2270a6d3e7/bootstrap_admin-0.3.7.tar.gz#md5=1d5034fe25f78b6a07f2c61935300925 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.3.7
+    Found link https://pypi.doubanio.com/packages/bc/6d/b70f180b81e9e2a23bfaaaa6dc005269b69a99cbff8048b521b6b35e9766/bootstrap_admin-0.2.2.tar.gz#md5=81b3e815493899ede17864696cd979bb (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.2.2
+    Found link https://pypi.doubanio.com/packages/ca/5d/b0f5bdea740ad8c784e8a0d3471d6bcef839a28dbb0335563ef2331414d0/bootstrap_admin-0.3.2.tar.gz#md5=7d06538dfd4b944afa8ebb14fb1f74fa (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.3.2
+    Found link https://pypi.doubanio.com/packages/cd/bc/2b1d1da62a6b7d12d7294fa712a90c1a9fe0b90615ea784e5ad3a3a24569/bootstrap_admin-0.3.3.tar.gz#md5=4d46b68856b43c670a839ea7acd7229d (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.3.3
+    Found link https://pypi.doubanio.com/packages/ce/e2/860c9ebac1c4c58cd02cca32b33a0987404405174915aab5a845f947d718/bootstrap_admin-0.2.0.tar.gz#md5=e886e12359468174348017cdc7c78029 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.2.0
+    Found link https://pypi.doubanio.com/packages/dd/8d/8860332be7650a59004a9ea0f3b5572460268ab5e0ada98fe486e778fa93/bootstrap_admin-0.3.1.tar.gz#md5=80064395a7d7b5135b821e2b2cf53301 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.3.1
+    Found link https://pypi.doubanio.com/packages/e8/30/9e6e446db29f1ce91ffc10f37f3e950347972d655642a34fa6d4dfee4fe4/bootstrap_admin-0.3.4.tar.gz#md5=a296a8d0ab68559901af4e697713676c (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.3.4
+    Found link https://pypi.doubanio.com/packages/e8/e1/60178e7f53615d61f44de6da86abb3af4ca46380a295a2e2eccd705692b9/bootstrap_admin-0.2.1.tar.gz#md5=0d81e2accd0793ea1a8159cc8d69d875 (from https://pypi.doubanio.com/simple/bootstrap-admin/), version: 0.2.1
+  Using version 0.3.7.1 (newest of versions: 0.1.1, 0.1.2, 0.1.3, 0.1.4, 0.1.5, 0.1.6, 0.1.7, 0.1.8, 0.1.9, 0.2.0, 0.2.1, 0.2.2, 0.2.3, 0.2.4, 0.2.5, 0.2.6, 0.2.7, 0.2.8, 0.2.9, 0.3.0, 0.3.1, 0.3.2, 0.3.3, 0.3.4, 0.3.5, 0.3.6, 0.3.7, 0.3.7.1)
+  Downloading https://pypi.doubanio.com/packages/ae/07/f34c923eeca9eaea5545382b42e3598105e5754761644e126a64b04d86ea/bootstrap_admin-0.3.7.1.tar.gz (192kB)
+  Downloading from URL https://pypi.doubanio.com/packages/ae/07/f34c923eeca9eaea5545382b42e3598105e5754761644e126a64b04d86ea/bootstrap_admin-0.3.7.1.tar.gz#md5=3e1fb13c96877e1841f67b3c337ab14a (from https://pypi.doubanio.com/simple/bootstrap-admin/)
+  Running setup.py (path:/private/var/folders/wc/c04h7_m90k5gngv182_ryrh00000gn/T/pip-build-a1_nzzbb/bootstrap-admin/setup.py) egg_info for package bootstrap-admin
+    Running command python setup.py egg_info
+    running egg_info
+    creating pip-egg-info/bootstrap_admin.egg-info
+    writing pip-egg-info/bootstrap_admin.egg-info/PKG-INFO
+    writing dependency_links to pip-egg-info/bootstrap_admin.egg-info/dependency_links.txt
+    writing top-level names to pip-egg-info/bootstrap_admin.egg-info/top_level.txt
+    writing manifest file 'pip-egg-info/bootstrap_admin.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'pip-egg-info/bootstrap_admin.egg-info/SOURCES.txt'
+  Source in /private/var/folders/wc/c04h7_m90k5gngv182_ryrh00000gn/T/pip-build-a1_nzzbb/bootstrap-admin has version 0.3.7.1, which satisfies requirement bootstrap-admin from https://pypi.doubanio.com/packages/ae/07/f34c923eeca9eaea5545382b42e3598105e5754761644e126a64b04d86ea/bootstrap_admin-0.3.7.1.tar.gz#md5=3e1fb13c96877e1841f67b3c337ab14a
+Building wheels for collected packages: bootstrap-admin
+  Destination directory: /var/folders/wc/c04h7_m90k5gngv182_ryrh00000gn/T/tmpjb1v8x48pip-wheel-
+  Running command /Users/wangzelin/python/webapp/env3.0/bin/python3.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/wc/c04h7_m90k5gngv182_ryrh00000gn/T/pip-build-a1_nzzbb/bootstrap-admin/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/wc/c04h7_m90k5gngv182_ryrh00000gn/T/tmpjb1v8x48pip-wheel- --python-tag cp36
+  running bdist_wheel
+  running build
+  running build_py
+  creating build
+  creating build/lib
+  creating build/lib/bootstrap_admin
+  copying bootstrap_admin/__init__.py -> build/lib/bootstrap_admin
+  creating build/lib/bootstrap_admin/templatetags
+  copying bootstrap_admin/templatetags/__init__.py -> build/lib/bootstrap_admin/templatetags
+  copying bootstrap_admin/templatetags/bootstrap_admin_template_tags.py -> build/lib/bootstrap_admin/templatetags
+  running egg_info
+  writing bootstrap_admin.egg-info/PKG-INFO
+  writing dependency_links to bootstrap_admin.egg-info/dependency_links.txt
+  writing top-level names to bootstrap_admin.egg-info/top_level.txt
+  reading manifest template 'MANIFEST.in'
+  writing manifest file 'bootstrap_admin.egg-info/SOURCES.txt'
+  copying bootstrap_admin/.DS_Store -> build/lib/bootstrap_admin
+  creating build/lib/bootstrap_admin/static
+  copying bootstrap_admin/static/.DS_Store -> build/lib/bootstrap_admin/static
+  creating build/lib/bootstrap_admin/static/admin
+  creating build/lib/bootstrap_admin/static/admin/css
+  copying bootstrap_admin/static/admin/css/base.css -> build/lib/bootstrap_admin/static/admin/css
+  copying bootstrap_admin/static/admin/css/changelists.css -> build/lib/bootstrap_admin/static/admin/css
+  copying bootstrap_admin/static/admin/css/dashboard.css -> build/lib/bootstrap_admin/static/admin/css
+  copying bootstrap_admin/static/admin/css/datetime_widget.css -> build/lib/bootstrap_admin/static/admin/css
+  copying bootstrap_admin/static/admin/css/forms.css -> build/lib/bootstrap_admin/static/admin/css
+  copying bootstrap_admin/static/admin/css/login.css -> build/lib/bootstrap_admin/static/admin/css
+  creating build/lib/bootstrap_admin/static/bootstrap_admin
+  copying bootstrap_admin/static/bootstrap_admin/.DS_Store -> build/lib/bootstrap_admin/static/bootstrap_admin
+  copying bootstrap_admin/static/bootstrap_admin/config.json -> build/lib/bootstrap_admin/static/bootstrap_admin
+  creating build/lib/bootstrap_admin/static/bootstrap_admin/css
+  copying bootstrap_admin/static/bootstrap_admin/css/bootstrap.min.css -> build/lib/bootstrap_admin/static/bootstrap_admin/css
+  creating build/lib/bootstrap_admin/static/bootstrap_admin/fonts
+  copying bootstrap_admin/static/bootstrap_admin/fonts/glyphicons-halflings-regular.eot -> build/lib/bootstrap_admin/static/bootstrap_admin/fonts
+  copying bootstrap_admin/static/bootstrap_admin/fonts/glyphicons-halflings-regular.svg -> build/lib/bootstrap_admin/static/bootstrap_admin/fonts
+  copying bootstrap_admin/static/bootstrap_admin/fonts/glyphicons-halflings-regular.ttf -> build/lib/bootstrap_admin/static/bootstrap_admin/fonts
+  copying bootstrap_admin/static/bootstrap_admin/fonts/glyphicons-halflings-regular.woff -> build/lib/bootstrap_admin/static/bootstrap_admin/fonts
+  copying bootstrap_admin/static/bootstrap_admin/fonts/glyphicons-halflings-regular.woff2 -> build/lib/bootstrap_admin/static/bootstrap_admin/fonts
+  creating build/lib/bootstrap_admin/static/bootstrap_admin/img
+  copying bootstrap_admin/static/bootstrap_admin/img/logo-140x60.png -> build/lib/bootstrap_admin/static/bootstrap_admin/img
+  creating build/lib/bootstrap_admin/static/bootstrap_admin/js
+  copying bootstrap_admin/static/bootstrap_admin/js/base.js -> build/lib/bootstrap_admin/static/bootstrap_admin/js
+  copying bootstrap_admin/static/bootstrap_admin/js/bootstrap.min.js -> build/lib/bootstrap_admin/static/bootstrap_admin/js
+  copying bootstrap_admin/static/bootstrap_admin/js/dashboard.js -> build/lib/bootstrap_admin/static/bootstrap_admin/js
+  creating build/lib/bootstrap_admin/templates
+  creating build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/404.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/500.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/actions.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/app_index.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/base.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/base_site.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/change_form.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/change_list.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/change_list_results.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/date_hierarchy.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/delete_confirmation.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/delete_selected_confirmation.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/filter.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/index.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/invalid_setup.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/login.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/object_history.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/pagination.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/popup_response.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/prepopulated_fields_js.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/related_widget_wrapper.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/search_form.html -> build/lib/bootstrap_admin/templates/admin
+  copying bootstrap_admin/templates/admin/submit_line.html -> build/lib/bootstrap_admin/templates/admin
+  creating build/lib/bootstrap_admin/templates/admin/auth
+  creating build/lib/bootstrap_admin/templates/admin/auth/user
+  copying bootstrap_admin/templates/admin/auth/user/add_form.html -> build/lib/bootstrap_admin/templates/admin/auth/user
+  copying bootstrap_admin/templates/admin/auth/user/change_password.html -> build/lib/bootstrap_admin/templates/admin/auth/user
+  creating build/lib/bootstrap_admin/templates/admin/edit_inline
+  copying bootstrap_admin/templates/admin/edit_inline/stacked.html -> build/lib/bootstrap_admin/templates/admin/edit_inline
+  copying bootstrap_admin/templates/admin/edit_inline/tabular.html -> build/lib/bootstrap_admin/templates/admin/edit_inline
+  creating build/lib/bootstrap_admin/templates/admin/includes
+  copying bootstrap_admin/templates/admin/includes/field.html -> build/lib/bootstrap_admin/templates/admin/includes
+  copying bootstrap_admin/templates/admin/includes/fieldset.html -> build/lib/bootstrap_admin/templates/admin/includes
+  copying bootstrap_admin/templates/admin/includes/object_delete_summary.html -> build/lib/bootstrap_admin/templates/admin/includes
+  creating build/lib/bootstrap_admin/templates/bootstrap_admin
+  copying bootstrap_admin/templates/bootstrap_admin/sidebar_menu.html -> build/lib/bootstrap_admin/templates/bootstrap_admin
+  creating build/lib/bootstrap_admin/templates/registration
+  copying bootstrap_admin/templates/registration/logged_out.html -> build/lib/bootstrap_admin/templates/registration
+  copying bootstrap_admin/templates/registration/password_change_done.html -> build/lib/bootstrap_admin/templates/registration
+  copying bootstrap_admin/templates/registration/password_change_form.html -> build/lib/bootstrap_admin/templates/registration
+  copying bootstrap_admin/templates/registration/password_reset_complete.html -> build/lib/bootstrap_admin/templates/registration
+  copying bootstrap_admin/templates/registration/password_reset_confirm.html -> build/lib/bootstrap_admin/templates/registration
+  copying bootstrap_admin/templates/registration/password_reset_done.html -> build/lib/bootstrap_admin/templates/registration
+  copying bootstrap_admin/templates/registration/password_reset_email.html -> build/lib/bootstrap_admin/templates/registration
+  copying bootstrap_admin/templates/registration/password_reset_form.html -> build/lib/bootstrap_admin/templates/registration
+  installing to build/bdist.macosx-10.11-x86_64/wheel
+  running install
+  running install_lib
+  creating build/bdist.macosx-10.11-x86_64
+  creating build/bdist.macosx-10.11-x86_64/wheel
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin
+  copying build/lib/bootstrap_admin/.DS_Store -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin
+  copying build/lib/bootstrap_admin/__init__.py -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static
+  copying build/lib/bootstrap_admin/static/.DS_Store -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/admin
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/admin/css
+  copying build/lib/bootstrap_admin/static/admin/css/base.css -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/admin/css
+  copying build/lib/bootstrap_admin/static/admin/css/changelists.css -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/admin/css
+  copying build/lib/bootstrap_admin/static/admin/css/dashboard.css -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/admin/css
+  copying build/lib/bootstrap_admin/static/admin/css/datetime_widget.css -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/admin/css
+  copying build/lib/bootstrap_admin/static/admin/css/forms.css -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/admin/css
+  copying build/lib/bootstrap_admin/static/admin/css/login.css -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/admin/css
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin
+  copying build/lib/bootstrap_admin/static/bootstrap_admin/.DS_Store -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin
+  copying build/lib/bootstrap_admin/static/bootstrap_admin/config.json -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/css
+  copying build/lib/bootstrap_admin/static/bootstrap_admin/css/bootstrap.min.css -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/css
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/fonts
+  copying build/lib/bootstrap_admin/static/bootstrap_admin/fonts/glyphicons-halflings-regular.eot -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/fonts
+  copying build/lib/bootstrap_admin/static/bootstrap_admin/fonts/glyphicons-halflings-regular.svg -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/fonts
+  copying build/lib/bootstrap_admin/static/bootstrap_admin/fonts/glyphicons-halflings-regular.ttf -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/fonts
+  copying build/lib/bootstrap_admin/static/bootstrap_admin/fonts/glyphicons-halflings-regular.woff -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/fonts
+  copying build/lib/bootstrap_admin/static/bootstrap_admin/fonts/glyphicons-halflings-regular.woff2 -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/fonts
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/img
+  copying build/lib/bootstrap_admin/static/bootstrap_admin/img/logo-140x60.png -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/img
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/js
+  copying build/lib/bootstrap_admin/static/bootstrap_admin/js/base.js -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/js
+  copying build/lib/bootstrap_admin/static/bootstrap_admin/js/bootstrap.min.js -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/js
+  copying build/lib/bootstrap_admin/static/bootstrap_admin/js/dashboard.js -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/static/bootstrap_admin/js
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/404.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/500.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/actions.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/app_index.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin/auth
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin/auth/user
+  copying build/lib/bootstrap_admin/templates/admin/auth/user/add_form.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin/auth/user
+  copying build/lib/bootstrap_admin/templates/admin/auth/user/change_password.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin/auth/user
+  copying build/lib/bootstrap_admin/templates/admin/base.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/base_site.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/change_form.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/change_list.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/change_list_results.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/date_hierarchy.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/delete_confirmation.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/delete_selected_confirmation.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin/edit_inline
+  copying build/lib/bootstrap_admin/templates/admin/edit_inline/stacked.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin/edit_inline
+  copying build/lib/bootstrap_admin/templates/admin/edit_inline/tabular.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin/edit_inline
+  copying build/lib/bootstrap_admin/templates/admin/filter.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin/includes
+  copying build/lib/bootstrap_admin/templates/admin/includes/field.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin/includes
+  copying build/lib/bootstrap_admin/templates/admin/includes/fieldset.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin/includes
+  copying build/lib/bootstrap_admin/templates/admin/includes/object_delete_summary.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin/includes
+  copying build/lib/bootstrap_admin/templates/admin/index.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/invalid_setup.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/login.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/object_history.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/pagination.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/popup_response.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/prepopulated_fields_js.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/related_widget_wrapper.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/search_form.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  copying build/lib/bootstrap_admin/templates/admin/submit_line.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/admin
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/bootstrap_admin
+  copying build/lib/bootstrap_admin/templates/bootstrap_admin/sidebar_menu.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/bootstrap_admin
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/registration
+  copying build/lib/bootstrap_admin/templates/registration/logged_out.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/registration
+  copying build/lib/bootstrap_admin/templates/registration/password_change_done.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/registration
+  copying build/lib/bootstrap_admin/templates/registration/password_change_form.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/registration
+  copying build/lib/bootstrap_admin/templates/registration/password_reset_complete.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/registration
+  copying build/lib/bootstrap_admin/templates/registration/password_reset_confirm.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/registration
+  copying build/lib/bootstrap_admin/templates/registration/password_reset_done.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/registration
+  copying build/lib/bootstrap_admin/templates/registration/password_reset_email.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/registration
+  copying build/lib/bootstrap_admin/templates/registration/password_reset_form.html -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templates/registration
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templatetags
+  copying build/lib/bootstrap_admin/templatetags/__init__.py -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templatetags
+  copying build/lib/bootstrap_admin/templatetags/bootstrap_admin_template_tags.py -> build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin/templatetags
+  running install_egg_info
+  Copying bootstrap_admin.egg-info to build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin-0.3.7.1-py3.6.egg-info
+  running install_scripts
+  creating build/bdist.macosx-10.11-x86_64/wheel/bootstrap_admin-0.3.7.1.dist-info/WHEEL
+  Stored in directory: /Users/wangzelin/Library/Caches/pip/wheels/1d/93/58/545cb1e491ae3f455c514c66c5b470b3b8e3ecdc45e0e22094
+  Removing source in /private/var/folders/wc/c04h7_m90k5gngv182_ryrh00000gn/T/pip-build-a1_nzzbb/bootstrap-admin
+Successfully built bootstrap-admin
+Installing collected packages: bootstrap-admin
+
+Successfully installed bootstrap-admin-0.3.7.1
+Cleaning up...
